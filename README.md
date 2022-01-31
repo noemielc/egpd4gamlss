@@ -6,6 +6,8 @@ The repository contains a tutorial with background theory about EGPD and main fu
 
 
 References:
+
 [1] Stasinopoulos, D. Mikis, and Robert A. Rigby. "Generalized additive models for location scale and shape (GAMLSS) in R." Journal of Statistical Software 23 (2008): 1-46.
+
 [2] Naveau, Philippe, et al. "Modeling jointly low, moderate, and heavy rainfall intensities without a threshold selection." Water Resources Research 52.4 (2016): 2753-2769.
 
