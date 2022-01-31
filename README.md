@@ -2,7 +2,7 @@
 An add-on to the GAMLSS R-package [1] allowing to fit non-stationary marginal distributions following the Extended Generalised Pareto model (EGPD) in the sense of [2].
 The add-on is made generic by means of symbolic derivation so that any parametric form satisfying the requirements of the EGPD family can be used and its parameter fitted and regressed on covariates by means of Generalized Additive Modelling forms.
 
-The repository contains a tutorial with background theory about EGPD and main functions of GAMLSS for model fitting, analysis and selection, as well as a short version of the associated tutorial code. The core code of the add-on is GenericEGPDg.R.
+The repository contains a tutorial with background theory about EGPD and the main functions of GAMLSS for model fitting, analysis and selection, as well as a short version of the associated tutorial code. The core code of the add-on is GenericEGPDg.R.
 
 
 References:
