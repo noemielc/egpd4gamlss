@@ -14,7 +14,7 @@
 
 library(Deriv)
 
-GPD_G <- function (G) {
+EGPD_G <- function (G) {
   ## G can be a function (of z), or simply an expression
   
   ## CDF of the GPD (mu)
